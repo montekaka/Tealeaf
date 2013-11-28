@@ -23,9 +23,7 @@ Note: we're looking for Ruby commands for the below questions, not the actual an
 
 7. What's the major difference between an Array and a Hash?
 
-8. Create a Hash using both Ruby 1.8 and 1.9 syntax.
-
-Suppose you have a h = {a:1, b:2, c:3, d:4}
+8. Create a Hash using both Ruby 1.8 and 1.9 syntax.  Suppose you have a h = {a:1, b:2, c:3, d:4}
 
 9. Get the value of key "b".
 
