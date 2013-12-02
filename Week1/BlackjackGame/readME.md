@@ -7,13 +7,19 @@ After being dealt the initial 2 cards, the player goes first and can choose to e
 By rule, the dealer must hit until she has at least 17. If the dealer busts, then the player wins. If the dealer, hits 21, then the dealer wins. If, however, the dealer stays, then we compare the sums of the two hands between the player and dealer; higher value wins.
 
 Hints:
-1. Think of the data structure required to keep track of cards in a deck. 
+1. Think of the data structure required to keep track of cards in a deck.
+
 2. You'll need to look up and use a "while" loop, since there could be an indeterminate number of "hits" by both the player and dealer. "while" loops are used when we don't have a finite number of iterations.
+
 3. Code something. Get started, even if it's just capturing the player's name. Give it an honest attempt before looking at solutions.
+
 4. Use methods to extract the piece of functionality that calculates the total, since we need it throughout the program.
 
 Bonus:
 1. Save the player's name, and use it throughout the app.
+
 2. Ask the player if he wants to play again, rather than just exiting.
+
 3. Save not just the card value, but also the suit. 
+
 4. Use multiple decks to prevent against card counting players.
